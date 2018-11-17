@@ -7,4 +7,4 @@ I want to fuck you !
 
 You cannot fuck me !
 
-This time I fuck the new branch 'master'
+This time I fuck the branch 'master'
