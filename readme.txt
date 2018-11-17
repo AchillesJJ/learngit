@@ -8,3 +8,5 @@ I want to fuck you !
 You cannot fuck me !
 
 This time I fuck the branch 'dev'
+
+This 'fuck' comes from SNN in master branch
