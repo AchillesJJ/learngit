@@ -6,3 +6,5 @@ Git tracks changes of files
 I want to fuck you !
 
 You cannot fuck me !
+
+This time I fuck the new branch 'dev'
