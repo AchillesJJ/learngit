@@ -10,4 +10,4 @@ class fuck(object):
         pass
     
     def multiply(self, x, y):
-        pass
+        return x*y
