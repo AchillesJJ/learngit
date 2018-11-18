@@ -1,3 +1,13 @@
-import fuck
+# encoding: utf-8
+import numpy as np
 
-I know there is no such module, fuck you !
+class fuck(object):
+    
+    def __init__(self):
+        pass
+    
+    def add(self, x, y):
+        pass
+    
+    def multiply(self, x, y):
+        pass
