@@ -15,4 +15,7 @@ class fuck(object):
 
     def multiply(self, x, y):
         return x*y
+    
+    def method1(self, x, y):
+        return None
 
