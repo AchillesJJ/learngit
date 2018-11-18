@@ -7,7 +7,8 @@ class fuck(object):
         pass
     
     def add(self, x, y):
-        pass
+        # this is a test from mxue.
+        return (x+y)
     
     def multiply(self, x, y):
         pass
