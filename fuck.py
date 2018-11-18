@@ -14,8 +14,4 @@ class fuck(object):
         return x/y if y !=0. else np.nan
 
     def multiply(self, x, y):
-<<<<<<< HEAD
-        pass
-=======
         return x*y
->>>>>>> a2c4368a4c0f02bf57daf7c587398948282a76c2
